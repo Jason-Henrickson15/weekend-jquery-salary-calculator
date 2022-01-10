@@ -1,9 +1,8 @@
 # Project Name
-
-[Project Instructions](./INSTRUCTIONS.md), this line may be removed once you have updated the README.md
-
+Weekend Jquery salaray Calculator
 ## Description
-
-Your project description goes here. What problem did you solve? How did you solve it?
-
-Additional README details can be found [here](https://github.com/PrimeAcademy/readme-template/blob/master/README.md).
+Takes in First Name, Last Name, ID, Title, and Annual Salary.
+Will output a monthly income total for all added employees.
+If the total monthly income exceeds 20,000, the text will appear read
+until the table is cleared, or the monthly total goes below 20,000 by deleting
+employees.
